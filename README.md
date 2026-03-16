@@ -1,12 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Komal 👋  
-
-🚀 App Developer | DSA Enthusiast | ML Learner  
-🔭 Working on app development projects  
-🌱 Deepening my knowledge in Data Structures, Algorithms & Machine Learning  
-🤖 Exploring ML concepts like Data Preprocessing & NLP  
-👯 Looking to collaborate on Open Source, App Dev & ML projects  
-💬 Ask me about App Development, DSA, Machine Learning, or anything tech-related!
+👋 Hi, I'm Komal<br><br>💻 Computer Science student who enjoys turning ideas and logic into working code.<br><br>I like learning by building things, experimenting, and understanding how technology works behind the scenes.<br><br>🔎 Currently exploring<br><br>Android development<br><br>Machine learning fundamentals<br><br>Data structures and problem solving<br><br>Core computer science concepts<br><br>🌱 Currently improving<br><br>Writing clean and efficient code<br><br>Breaking down complex problems into simple solutions<br><br>Learning by building and experimenting<br><br>☕ A very real coding habit<br><br>If my code finally works, I stare at it for a minute…<br>because I'm not completely sure what I did right.<br>
 
 ---
 
@@ -17,27 +10,20 @@ Hi there! I’m Komal 👋
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-
----
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=komallsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=komallsingh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=komallsingh&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=komallsingh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=komallsingh&theme=dark&hide_border=false)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=komallsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=komallsingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=komallsingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
