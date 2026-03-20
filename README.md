@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Komal  
 
 ## 💻 Computer Science Student who enjoys turning ideas and logic into working code.  
