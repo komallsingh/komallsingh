@@ -1,5 +1,25 @@
 # 💫 About Me:
-👋 Hi, I'm Komal<br><br>💻 Computer Science student who enjoys turning ideas and logic into working code.<br><br>I like learning by building things, experimenting, and understanding how technology works behind the scenes.<br><br>🔎 Currently exploring<br><br>Android development<br><br>Machine learning fundamentals<br><br>Data structures and problem solving<br><br>Core computer science concepts<br><br>🌱 Currently improving<br><br>Writing clean and efficient code<br><br>Breaking down complex problems into simple solutions<br><br>Learning by building and experimenting<br><br>☕ A very real coding habit<br><br>If my code finally works, I stare at it for a minute…<br>because I'm not completely sure what I did right.<br>
+# 👋 Hi, I'm Komal  
+
+## 💻 Computer Science Student who enjoys turning ideas and logic into working code.  
+
+I like learning by building things, experimenting, and understanding how technology works behind the scenes.  
+
+## 🔎 Currently Exploring  
+- Android Development  
+- Machine Learning Fundamentals  
+- Data Structures and Problem Solving  
+- Core Computer Science Concepts  
+
+## 🌱 Currently Improving  
+- Writing clean and efficient code  
+- Breaking down complex problems into simple solutions  
+- Learning by building and experimenting  
+
+## ☕ A Very Real Coding Habit  
+If my code finally works, I stare at it for a minute…  
+because I'm not completely sure what I did right.  
+
 
 ---
 
