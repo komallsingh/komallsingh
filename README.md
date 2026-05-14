@@ -6,9 +6,17 @@ I'm a CS undergrad building Android and backend applications with a focus on cle
 
 ## Stack
 
-`Kotlin` `Java` `Python` `JavaScript (ES6+)` `Jetpack Compose` `Android Studio` `Firebase` `Node.js` `Express.js` `MongoDB` `MySQL`
+### Android
+`Kotlin` `Java` `Jetpack Compose` `Android Studio` `Firebase` `Retrofit` `MVVM`
 
-`REST APIs` `JWT / OAuth` `Git` `GitHub` `TensorFlow` `Machine Learning` `OpenCV` `Pandas` `NumPy` `Retrofit` `MVVM` `Postman`
+### Backend
+`Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs` `JWT / OAuth` `JavaScript`
+
+### Machine Learning & GenAI
+`Python` `TensorFlow` `Machine Learning` `GenAI` `Pandas` `NumPy` `OpenCV` `RNN` `CNN` `Keras`
+
+### Tools & Other
+`Git` `GitHub` `Postman` `FireStore` `Rendor`
 
 
 ---
