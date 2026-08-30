@@ -4,7 +4,7 @@
 
 I'm a CS undergrad building **Android and backend applications** with a focus on
 **clean architecture, scalable systems, APIs, and real-world problem solving**.
-
+   
 I enjoy understanding **how systems work**, not just making them work.
 
 ---
