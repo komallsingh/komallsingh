@@ -8,27 +8,176 @@ I'm a CS undergrad building **Android and backend applications** with a focus on
 I enjoy understanding **how systems work**, not just making them work.
 
 ---
+## ⚡ Tech Arsenal
+
+<!-- ==================== LANGUAGES ==================== -->
+
+<table align="center">
+<tr>
+<td align="center" width="650">
+
+<h3>💻 Languages</h3>
 
 <p>
-<img src="https://iconic-api.onrender.com/dark/kotlin" width="48px" title="Kotlin" />
-<img src="https://iconic-api.onrender.com/dark/android" width="48px" title="Android" />
-<img src="https://iconic-api.onrender.com/dark/firebase" width="48px" title="Firebase" />
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="48px" title="Node.js" />
-<img src="https://iconic-api.onrender.com/dark/express" width="48px" title="Express.js" />
-<img src="https://iconic-api.onrender.com/dark/typescript" width="48px" title="TypeScript" />
-<img src="https://iconic-api.onrender.com/dark/postgresql" width="48px" title="PostgreSQL" />
-<img src="https://iconic-api.onrender.com/dark/mongodb" width="48px" title="MongoDB" />
-<img src="https://iconic-api.onrender.com/dark/mysql" width="48px" title="MySQL" />
-<img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
-<img src="https://iconic-api.onrender.com/dark/tensorflow" width="48px" title="TensorFlow" />
-<img src="https://iconic-api.onrender.com/dark/pandas" width="48px" title="Pandas" />
-<img src="https://iconic-api.onrender.com/dark/numpy" width="48px" title="NumPy" />
-<img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" />
-<img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub" />
-<img src="https://iconic-api.onrender.com/dark/linux" width="48px" title="Linux" />
-<img src="https://iconic-api.onrender.com/dark/postman" width="48px" title="Postman" />
-<img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
+<img src="https://iconic-api.onrender.com/dark/java" width="64px" title="Java" />
+<img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" title="Kotlin" />
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" title="Python" />
+<img src="https://iconic-api.onrender.com/dark/typescript" width="64px" title="TypeScript" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" title="JavaScript" />
 </p>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/java" width="18px" />
+Java
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/kotlin" width="18px" />
+Kotlin
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/python" width="18px" />
+Python
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/typescript" width="18px" />
+TypeScript
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/js" width="18px" />
+JavaScript
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ==================== ANDROID + BACKEND ==================== -->
+
+<table align="center">
+<tr>
+
+<td align="center" width="400">
+
+<h3>📱 Android Development</h3>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/firebase" width="64px" />
+</p>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/kotlin" width="18px" />
+Kotlin
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/firebase" width="18px" />
+Firebase
+&nbsp;&nbsp;
+📦 Jetpack Compose
+</p>
+
+</td>
+
+<td align="center" width="400">
+
+<h3>⚙️ Backend & Database</h3>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/express" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+</p>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/nodejs" width="18px" />
+Node.js
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/express" width="18px" />
+Express.js
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="18px" />
+PostgreSQL
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ==================== AI & ML ==================== -->
+
+<table align="center">
+<tr>
+<td align="center" width="650">
+
+<h3>🤖 AI & Machine Learning</h3>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/pandas" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/numpy" width="64px" />
+</p>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/python" width="18px" />
+Python
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/tensorflow" width="18px" />
+TensorFlow
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/pandas" width="18px" />
+Pandas
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/numpy" width="18px" />
+NumPy
+&nbsp;&nbsp;
+🧠 Computer Vision
+&nbsp;&nbsp;
+🔤 NLP
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ==================== TOOLS ==================== -->
+
+<table align="center">
+<tr>
+<td align="center" width="650">
+
+<h3>🛠️ Tools & Platforms</h3>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/postman" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/render" width="64px" />
+</p>
+
+<p>
+<img src="https://iconic-api.onrender.com/dark/git" width="18px" />
+Git
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/github" width="18px" />
+GitHub
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/linux" width="18px" />
+Linux
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/postman" width="18px" />
+Postman
+&nbsp;&nbsp;
+<img src="https://iconic-api.onrender.com/dark/render" width="18px" />
+Render
+</p>
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
