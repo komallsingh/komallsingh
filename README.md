@@ -181,44 +181,30 @@ Render
 
 ## 🚀 Featured Projects
 
-### 🔗 [shorTea](https://github.com/komallsingh/shorTea)
+*Building developer tools that prevent problems, apps that simplify workflows, and AI systems that turn complexity into clarity.*
 
-**Production-focused URL shortener**
+### 🛡️ [API Contract Guardian](https://github.com/komallsingh/api-contract-guardian)
+Catch breaking API changes and trace potential consumer impact — right inside VS Code.
 
-`Node.js` · `Express.js` · `TypeScript` · `PostgreSQL`
+### ⚡ [Broadcast Server](https://github.com/komallsingh/Broadcast-server)
+A WebSocket-powered broadcasting server with CLI controls and graceful connection management.
 
-- Built URL shortening, redirects, analytics tracking, and browser/device insights.
-- Integrated malicious URL detection for safer redirects.
-- Designed using **layered architecture, repository pattern, validation middleware, and structured error handling**.
-- Focused on scalable backend practices, API security, and efficient database design.
+### 🔗 [shorTea App](https://github.com/komallsingh/shortTea-App)
+A Bitly-inspired Android app that brings link shortening, QR codes, and smart analytics into one place.
 
----
+### ⚙️ [shorTea Backend](https://github.com/komallsingh/shorTea)
+A production-focused URL shortening backend built for secure redirects, scalable APIs, and actionable click analytics.
 
 ### 📱 [CodeBell](https://github.com/komallsingh/CodeBell)
+Never miss a coding contest — track competitions across platforms and keep your programming schedule in sync.
 
-**Competitive programming contest tracker for Android**
-
-`Kotlin` · `Jetpack Compose` · `Room` · `REST APIs`
-
-- Integrates multiple competitive programming platforms into a centralized contest tracker.
-- Uses **MVVM architecture, local caching, and efficient state management**.
-- Designed with clean UI principles and offline support.
-- Built with scalability and maintainability in mind.
-
----
+### 🩺 [MediScan](https://github.com/komallsingh/MediScan)
+Turn complex medical reports into clearer, easier-to-understand health insights with AI-powered analysis.
 
 ### 🤖 [AIVA](https://github.com/komallsingh/AIVA)
+An AI-powered assistant combining computer vision and voice analysis for emotion-aware, context-sensitive interactions.
 
-**AI-powered multimodal system**
-
-`Python` · `Computer Vision` · `Machine Learning` · `NLP`
-
-- Explores intelligent interaction using computer vision and machine learning.
-- Implements face-based analysis including emotion, age, and gender recognition.
-- Combines ML workflows, data processing, and real-world AI applications.
-
----
-
+ ---
 ## 🎯 Currently
 
 - 📱 Building scalable Android applications using **Kotlin, Jetpack Compose, and clean architecture**
